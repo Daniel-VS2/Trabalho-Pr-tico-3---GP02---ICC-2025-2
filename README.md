@@ -23,7 +23,7 @@ O algoritmo simula todas as jogadas possíveis recursivamente até o final do jo
 A profundidade da jogada é considerada para priorizar vitórias mais rápidas e derrotas mais demoradas.
 
 
-## Instruções de Compilação e Execução 
+## Instruções de Compilação e Execução do código 
 Para compilar o programa, utilize um compilador C (como o GCC).  
 No terminal, execute o seguinte comando:
 
